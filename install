@@ -1,0 +1,9 @@
+Jenkins installation
+
+cd /opt/tomcat8/webapps
+
+wget http://mirrors.jenkins.io/war-stable/latest/jenkins.war
+
+your ip:8080/jenkins
+
+jekins user name and password , sola... sola
